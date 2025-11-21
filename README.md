@@ -1,12 +1,7 @@
 - 👋 Hi, I’m Mr_dev
 - 👀 I’m interested in programming and unity 3D design
-- 🌱 I’m currently learning c sharp, web developpment with html css js and go
+- 🌱 I’m currently learning c sharp, web developpment with html css js  go and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!---
-safoineziyad/safoineziyad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

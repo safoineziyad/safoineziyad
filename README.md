@@ -32,4 +32,4 @@ I'm a **Full-Stack Developer** and **Game Developer** proficient in building mod
 
 ### 📊 GitHub Stats
 ![Ziyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=safoineziyad&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safoineziyad&layout=compact&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safoineziyad&layout=compact&langs_count=8&theme=radial)

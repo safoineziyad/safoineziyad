@@ -1,13 +1,16 @@
 # Hi, I'm Ziyad (Mr_dev) 👋
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safoineziyad@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/safoineziyad/My_Portfolio)
+
 ### 🚀 About Me
 I'm a **Full-Stack Developer** and **Game Developer** proficient in building modern web applications and 3D interactive experiences.
 
-- 🌐 **Full-Stack Web:** React, Next.js, Node.js, TypeScript, JavaScript, Go, Python, HTML/CSS
+- 🌐 **Full-Stack Web:** React, Next.js, Node.js, TypeScript, JavaScript, Go, Python, HTML5, CSS3
 - 🎮 **Game Engines:** Unity 3D & Unreal Engine (C#)
 - 🐳 **DevOps & Tools:** Docker, Git
 - 🌱 **Currently Learning:** Microservices with Go & advanced C++ for Unreal Engine
-- 📫 **Reach me at:** [Your Email / LinkedIn]
+- 📫 **Reach me at:** [safoineziyad@gmail.com](mailto:safoineziyad@gmail.com)
 
 ---
 
